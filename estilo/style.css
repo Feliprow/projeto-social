@@ -26,9 +26,10 @@ section#telefone {
     transform: translate(50%, -50%);
 
     height: 627px;
-    width: 311px;
-    background: fixed url(/imagens/moldura-iphone.png) no-repeat;
+    width: 311px;    
     background-size: cover;
+    background: fixed url(/imagens/moldura-iphone.png) no-repeat;
+
 }
 
 iframe#tela {
